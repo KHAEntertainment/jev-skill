@@ -1,0 +1,11 @@
+{
+  "name": "jev",
+  "displayName": "Jev Integration",
+  "version": "0.1.0",
+  "description": "Decide when and how to integrate TypeSafe's Jev decision model: access paths (TypeSafe, OpenRouter, Vercel, Cloudflare), framework choice, harness patterns (tool gates, routers, triage), calibration and production ops.",
+  "author": { "name": "KHA Entertainment", "url": "https://github.com/KHAEntertainment" },
+  "homepage": "https://github.com/KHAEntertainment/jev-skill",
+  "repository": "https://github.com/KHAEntertainment/jev-skill",
+  "license": "MIT",
+  "keywords": ["jev", "typesafe", "system-one", "openrouter", "decision-model", "classification", "routing", "guardrails", "agent-harness"]
+}
