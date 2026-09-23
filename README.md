@@ -81,14 +81,14 @@ jev-skill/
 ### Claude Code (plugin marketplace)
 
 ```bash
-claude plugin marketplace add KHAEntertainment/kha-marketplace
+claude plugin marketplace add KHAEntertainment/marketplace
 claude plugin install jev@kha-marketplace
 ```
 
 Or inside a session:
 
 ```
-/plugin marketplace add KHAEntertainment/kha-marketplace
+/plugin marketplace add KHAEntertainment/marketplace
 /plugin install jev@kha-marketplace
 ```
 
