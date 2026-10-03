@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.1 — 2026-10-03
+
+Documentation only.
+
+- README now points at `KHAEntertainment/marketplace`. It previously used the
+  pre-rename `KHAEntertainment/kha-marketplace` path, which still redirects but
+  is the wrong URL. Released as 0.1.1 because the plugin catalog pins
+  `v0.1.0`, whose bundled copy of the README still carried the stale URL.
+
 ## 0.1.0 — 2026-09-22
 
 Initial release. Facts verified against primary sources on 2026-09-22 (Jev `jev-1.13.0`).
